@@ -2,10 +2,10 @@
 
 /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
 $settings = array(
-    'oauth_access_token' => "944606646-O2UmtCBhWlfWvPmV1wjsCBJcJiPeObdKf65PfT38",
-    'oauth_access_token_secret' => "gtsA8QqRDFEnChPwD5HKqR0aLQcKpWI8qj9s47P605P2I",
-    'consumer_key' => "bu6LVjbhUA2f6siI2sLLSSNJR",
-    'consumer_secret' => "8YL0jNUrgJoEDoO75ZIQVnZkOTHvm9FbQcttu1rBCAdqiDVEwC"
+    'oauth_access_token' => "",
+    'oauth_access_token_secret' => "",
+    'consumer_key' => "",
+    'consumer_secret' => ""
 );
 $http_origin = $_SERVER['HTTP_ORIGIN'];
  
